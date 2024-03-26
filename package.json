@@ -1,0 +1,16 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "this is the snake game built with js ",
+  "main": "src/play.js",
+  "repository": "https://github.com/akhilsdeportfolio/snake-game.git",
+  "author": "Akhil Kamsala",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "play":"node play.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
